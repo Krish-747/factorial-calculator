@@ -1,0 +1,2 @@
+# Factorial Calculator
+A factorial calculator made using C, that can calculate the factorial of big numbers. It calculates them by using the method we humans use to multiply numbers on paper by multiplying each digit taking the first digit and carryover the remainder. It can calculate the factorial of numbers whose answer is shorter than 100 digits but it can be extended further by increasing the `LENGTH_OF_ANSWER` constant.
